@@ -1,16 +1,5 @@
-# Directional Stock Prediction
-## AUTHORS
-Raghavendran Ramakrishnan\
-Balaji Gokulakrishnan \
-Yangkang Ou\
-Manish Vishnoi\
-Gourab Mithra\
-Prateek Jain\
-## Library Functions
- `Numpy`, `matplotlib`,`Keras` , `Tensorflow`, `NLTK` , `BERT`, `scikit-learn` ,`Doc2Vec`
-   
+# Dataset of K-means
 
- 
-## REFERENCES
-towardsdatascience-
-(https://towardsdatascience.com/multi-class-text-classification-with-doc2vec-logistic-regression-9da9947b43f4)
+AAPL: https://drive.google.com/open?id=1XXijxhhT0CYjACqARmJIdcyIu_yBSXiR 
+
+AMZN: https://drive.google.com/open?id=1KAQgO7bOdt_EEEx4eaQBHahDxeGFDVyP 
