@@ -2,7 +2,7 @@
 
 Two dataset which used in K-means 
 
-### Note: also avaible to the following link
+### NOTE: also available to the following link
 
 AAPL: https://drive.google.com/open?id=1XXijxhhT0CYjACqARmJIdcyIu_yBSXiR 
 
