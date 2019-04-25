@@ -1,4 +1,4 @@
-# This project contain three models:
+# This project contains three models:
 
 
 1. Supervised Learning inclduing LSTM
