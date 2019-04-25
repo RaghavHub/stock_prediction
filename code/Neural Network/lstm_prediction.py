@@ -28,7 +28,7 @@ from keras import regularizers
 # In[2]:
 
 
-data_set = pd.read_csv("Labeled_news/AMAZON_240_labeled_news.csv")
+data_set = pd.read_csv("Labeled_news/AMAZON_1440_labeled_news.csv")
 data_set.head()
 
 
@@ -77,7 +77,7 @@ print(len(data_set))
 # In[10]:
 
 
-news = pd.read_csv("Labeled_news/AMAZON_240_labeled_news.csv")
+news = pd.read_csv("Labeled_news/AMAZON_1440_labeled_news.csv")
 
 
 # In[11]:
