@@ -1,6 +1,6 @@
 # K-means
 
-Note: install all the library frist
+Note: install all the library first
 Run on with command:  
 ```
 ./install.sh
