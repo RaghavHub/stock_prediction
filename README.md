@@ -21,10 +21,10 @@ Evaluation metrices can be accessed under evaluation folder while source code ca
 
 As this project doesn't have any front end, we tried to provide a installation script which can be used to install packages and run classifiers based upon your choice.
 
-⋅⋅* This project requires **Python 3** for running.
-⋅⋅* Though script is executable, it is safe to run command : \
+* This project requires **Python 3** for running.
+* Though script is executable, it is safe to run command : \
 ``` chmod +x install.sh ```
-⋅⋅* Once script is running, you may choose some of the classifiers to execute and run.
+* Once script is running, you may choose some of the classifiers to execute and run.
 
 Not all classfiers can't be runnable as they have multiple dependencies, for e.g MySql database to run unsupervised kmeans.
 
