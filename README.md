@@ -5,13 +5,13 @@ Balaji Gokulakrishnan \
 Yangkang Ou\
 Manish Vishnoi\
 Gourab Mithra\
-Prateek Jain\
+Prateek Jain
 
 ## Overview
 Predicting how the stock market will perform is one of the most difficult things to do. There are so many factors involved in the prediction – physical factors vs. physhological, rational and irrational behaviour, etc. All these aspects combine to make share prices volatile and very difficult to predict with a high degree of accuracy. 
 
 To challenge one part of this problem, we built and analysed different models to predict direction of stock price's change of Amazon and Apple. For this we used different models and compared their performnaces. Models can be divided into three major parts :
-⋅⋅* Supervised Learning.
+..* Supervised Learning.
 ⋅⋅* Unsupervised Learning.
 ⋅⋅* Neural Netowrk.
 
