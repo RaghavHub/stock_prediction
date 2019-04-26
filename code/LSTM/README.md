@@ -7,7 +7,7 @@ We are going to use GloVe’s larger common crawl vectors to create our word emb
  `Numpy`, `matplotlib`,`Keras` , `Tensorflow`, `NLTK` , `scikit-learn` , `Glove`
 
 ## Install Instructions
-** You must download GloVe's vectors to run this classifier.**
+**You must download GloVe's vectors to run this classifier.**
 Please run "install.sh" file provided at the root directory of project which will install python dependencies. 
 
 As we know Training a neural network takes very large amount of time, You can directly run this netowork using pretrained saved vectors for amazon for test purposes. This will not take more than 5 minutes. (You still need to download GloVe for word embeddings)
