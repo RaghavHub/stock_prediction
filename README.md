@@ -24,8 +24,7 @@ As this project doesn't have any front end, we tried to provide a installation s
 * This project requires **Python 3** for running.
 * Though script is executable, it is safe to run command : \
 ``` chmod +x install.sh ```
-* Once script is running, you may choose some of the classifiers to execute and run.
-
+* Once script is executed you can run individual classifiers as required.
 
 **Not all classfiers are runnable as they have multiple dependencies, for e.g MySql database to run unsupervised kmeans.**
 
