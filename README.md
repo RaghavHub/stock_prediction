@@ -4,7 +4,7 @@ Raghavendran Ramakrishnan\
 Balaji Gokulakrishnan \
 Yangkang Ou\
 Manish Vishnoi\
-Gourab Mithra\
+Gourab Mitra\
 Prateek Jain
 
 ## Overview
@@ -26,7 +26,8 @@ As this project doesn't have any front end, we tried to provide a installation s
 ``` chmod +x install.sh ```
 * Once script is running, you may choose some of the classifiers to execute and run.
 
-Not all classfiers can't be runnable as they have multiple dependencies, for e.g MySql database to run unsupervised kmeans.
+
+**Not all classfiers can't be runnable as they have multiple dependencies, for e.g MySql database to run unsupervised kmeans.**
 
 ## Library Functions
 * **Vectoriation** : GloVe word embeddings, Word2Vec & Doc2Vec
