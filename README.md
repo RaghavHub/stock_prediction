@@ -21,7 +21,7 @@ Evaluation metrices can be accessed under evaluation folder while source code ca
 
 As this project doesn't have any front end, we tried to provide a installation script which can be used to install packages and run classifiers based upon your choice.
 
-* This project requires **Python 3** for running.
+* This project requires **Python** for running.
 * Though script is executable, it is safe to run command : \
 ``` chmod +x install.sh ```
 * Once script is executed you can run individual classifiers as required.
